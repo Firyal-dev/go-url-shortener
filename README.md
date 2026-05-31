@@ -12,4 +12,4 @@ A lightweight, high-performance, and production-ready URL shortener library writ
 ## Installation
 
 ```bash
-go get [github.com/Firyal-dev/url-shorterner](https://github.com/Firyal-dev/url-shorterner)
+go get [github.com/Firyal-dev/go-url-shortener](https://github.com/Firyal-dev/go-url-shortener)
