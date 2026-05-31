@@ -1,4 +1,4 @@
-module github.com/Firyal-dev/url-shorterner
+module github.com/Firyal-dev/go-url-shortener
 
 go 1.26.2
 
